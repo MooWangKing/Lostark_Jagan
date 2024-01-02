@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Github/Lostark_Jagan/Jagan/Content/StarterContent/Props/MaterialSphere.uasset",
+				"D:/Github/Lostark_Jagan/Jagan/Content/Maps/TestMap.umap"
+			]
+		}
+	]
+}
