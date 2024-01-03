@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Projects/Lostark_Jagan/Jagan/Content/JYJ/Blueprints/BP_PlayerMoving.uasset",
+				"D:/Projects/Lostark_Jagan/Jagan/Content/Maps/PlayerTestMap.umap",
+				"D:/Projects/Lostark_Jagan/Jagan/Content/JYJ/Blueprints/BP_PlayerMoving1.uasset",
 				"D:/Github/Lostark_Jagan/Jagan/Content/StarterContent/Props/MaterialSphere.uasset",
 				"D:/Github/Lostark_Jagan/Jagan/Content/Maps/TestMap.umap",
 				"D:/Github/Lostark_Jagan/Jagan/Content/Maps/BossTestMap.umap",
