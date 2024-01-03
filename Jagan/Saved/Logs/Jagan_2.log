@@ -2166,3 +2166,996 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.03-07.23.29:289][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.01.03-07.23.29:292][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
 [2024.01.03-07.23.29:367][474]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.01.03-07.28.17:799][263]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.28.17:799][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.28.17:808][263]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.28.17:808][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.28.17:847][263]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.28.17:847][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.28.37:585][739]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/AttackHornAnim.AttackHornAnim
+[2024.01.03-07.28.37:586][739]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.28.37:586][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.28.37:605][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.28.37:806][739]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.28.37:806][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.28.37:945][739]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.28.37:945][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.28.38:129][739]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.01.03-07.28.38:160][739]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.03-07.32.24:125][149]LogContentBrowser: Deferred new asset file creation: AttackHornAnim1
+[2024.01.03-07.32.24:143][149]LogContentBrowser: Creating deferred item: AttackHornAnim1
+[2024.01.03-07.32.24:155][150]LogContentBrowser: Renaming the item being created (Deferred Item: AttackHornAnim1).
+[2024.01.03-07.32.33:731][725]LogContentBrowser: Attempting asset rename: AttackHornAnim1 -> FireBlessAnim
+[2024.01.03-07.32.33:767][725]LogContentBrowser: End creating deferred item AttackHornAnim1
+[2024.01.03-07.32.58:339][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.01.03-07.32.58:343][903]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/BossTestMap' took 0.022
+[2024.01.03-07.32.58:343][903]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireBlessAnim] ([1] browsable assets)...
+[2024.01.03-07.32.58:503][903]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireBlessAnim.FireBlessAnim]
+[2024.01.03-07.32.58:503][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireBlessAnim]
+[2024.01.03-07.32.58:512][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireBlessAnim_Auto2
+[2024.01.03-07.32.58:512][903]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/FireBlessAnim_Auto24C0F847F4B69BFFB8DD822A8E315D141.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Saved/Autosaves/Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireBlessAnim_Auto2.uasset'
+[2024.01.03-07.32.58:512][903]LogFileHelpers: Auto-saving content packages took 0.169
+[2024.01.03-07.33.00:072][909]LogDerivedDataCache: C:/Users/MSI/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.078 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2174 files in 3205 folders with total size 169 MiB.
+[2024.01.03-07.33.16:009][176]LogContentBrowser: Attempting asset rename: FireBlessAnim -> FireSpiitAnim
+[2024.01.03-07.33.16:033][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-07.33.16:067][176]LogSavePackage: Moving output files for package: /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpiitAnim
+[2024.01.03-07.33.16:067][176]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/FireSpiitAnim75D5CF7A49FE68B942612EA8DAE425A0.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpiitAnim.uasset'
+[2024.01.03-07.33.16:075][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 711 ms)
+[2024.01.03-07.33.16:093][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.03-07.33.16:106][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.03-07.33.16:121][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.03-07.33.16:122][176]AssetCheck: New page: Asset Save: FireSpiitAnim
+[2024.01.03-07.33.16:122][176]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpiitAnim.FireSpiitAnim
+[2024.01.03-07.33.21:017][467]LogContentBrowser: Attempting asset rename: FireSpiitAnim -> FireSpitAnim
+[2024.01.03-07.33.21:040][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-07.33.21:067][467]LogSavePackage: Moving output files for package: /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim
+[2024.01.03-07.33.21:067][467]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/FireSpitAnim8CAFB273426212E720B490A90181B2BA.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.uasset'
+[2024.01.03-07.33.21:076][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 748 ms)
+[2024.01.03-07.33.21:097][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.03-07.33.21:113][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.03-07.33.21:128][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.03-07.33.21:131][467]AssetCheck: New page: Asset Save: FireSpitAnim
+[2024.01.03-07.33.21:131][467]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim
+[2024.01.03-07.33.23:171][587]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim
+[2024.01.03-07.33.23:220][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.33.23:220][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.33.23:234][587]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.33.23:234][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.34.24:260][780]Cmd: TRANSACTION UNDO
+[2024.01.03-07.34.24:260][780]LogEditorTransaction: Undo Edit Loop Animation
+[2024.01.03-07.34.24:542][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.34.24:546][780]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.34.43:547][906]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim
+[2024.01.03-07.34.43:566][906]LogAnimationCompression: Display: Storing compressed animation data for /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim, at AnimationSequence/11b6e9481cbd11a1f7f1846a6674840dcf223a65
+[2024.01.03-07.37.07:401][ 42]Cmd: TRANSACTION UNDO
+[2024.01.03-07.37.07:401][ 42]LogEditorTransaction: Undo Crop Animation Sequence
+[2024.01.03-07.37.07:407][ 42]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim
+[2024.01.03-07.37.07:454][ 42]LogAnimationCompression: Display: Storing compressed animation data for /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim, at AnimationSequence/5d29ad58409512eb633394c6b9e23f2faf58e833
+[2024.01.03-07.37.07:682][ 42]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.07:684][ 42]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.07:841][ 45]Cmd: TRANSACTION UNDO
+[2024.01.03-07.37.07:841][ 45]LogEditorTransaction: Undo Rename Node
+[2024.01.03-07.37.08:108][ 45]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.08:112][ 45]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.12:509][303]Cmd: TRANSACTION UNDO
+[2024.01.03-07.37.12:509][303]LogEditorTransaction: Undo Edit Loop
+[2024.01.03-07.37.12:780][303]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.12:782][303]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.13:456][335]Cmd: TRANSACTION UNDO
+[2024.01.03-07.37.13:456][335]LogEditorTransaction: Undo Delete current selection
+[2024.01.03-07.37.13:728][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.13:732][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.14:282][365]Cmd: TRANSACTION UNDO
+[2024.01.03-07.37.14:282][365]LogEditorTransaction: Undo Delete current selection
+[2024.01.03-07.37.14:554][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.14:558][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.14:562][365]Cmd: TRANSACTION UNDO
+[2024.01.03-07.37.14:562][365]LogEditorTransaction: Undo Edit Anim Class
+[2024.01.03-07.37.14:865][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.14:868][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.14:872][365]Cmd: TRANSACTION UNDO
+[2024.01.03-07.37.14:872][365]LogEditorTransaction: Undo Create Pin Link
+[2024.01.03-07.37.15:186][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.15:190][365]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.15:410][366]Cmd: TRANSACTION UNDO
+[2024.01.03-07.37.15:410][366]LogEditorTransaction: Undo Add Node
+[2024.01.03-07.37.15:715][366]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.15:718][366]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.15:797][367]Cmd: TRANSACTION UNDO
+[2024.01.03-07.37.15:797][367]LogEditorTransaction: Undo Delete current selection
+[2024.01.03-07.37.16:106][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.16:109][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.16:113][367]Cmd: TRANSACTION UNDO
+[2024.01.03-07.37.16:113][367]LogEditorTransaction: Undo Move Node
+[2024.01.03-07.37.16:424][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.16:428][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.16:431][367]Cmd: TRANSACTION UNDO
+[2024.01.03-07.37.16:431][367]LogEditorTransaction: Undo Move Node
+[2024.01.03-07.37.16:741][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.16:744][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.37.21:443][617]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/AttackHornAnim.AttackHornAnim
+[2024.01.03-07.37.21:487][617]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.37.21:487][617]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.37.21:501][617]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.37.21:501][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.38.18:314][ 13]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.38.18:314][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.38.21:758][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.03-07.38.23:139][214]LogSlate: Window 'Save Content' being destroyed
+[2024.01.03-07.38.23:148][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-07.38.23:184][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/ABP_Boss" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/ABP_Boss.uasset" SILENT=true
+[2024.01.03-07.38.23:190][214]LogSavePackage: Moving output files for package: /Game/KSH/Animations/ABP_Boss
+[2024.01.03-07.38.23:190][214]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/ABP_Boss3CE291BD46369A477A2992A044782A41.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/ABP_Boss.uasset'
+[2024.01.03-07.38.23:198][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Blueprints/BP_Boss" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Blueprints/BP_Boss.uasset" SILENT=true
+[2024.01.03-07.38.23:201][214]LogSavePackage: Moving output files for package: /Game/KSH/Blueprints/BP_Boss
+[2024.01.03-07.38.23:201][214]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/BP_Boss39F52A4C4E7FACDFB5CAB6AEB7EAD19F.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Blueprints/BP_Boss.uasset'
+[2024.01.03-07.38.23:219][214]LogSavePackage: Moving output files for package: /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/Idle01Anim
+[2024.01.03-07.38.23:219][214]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/Idle01Anim7559483B4234D06BB7C64CB98AB11955.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/FourEvilDragonsPBR/Animations/DragonTheNightmare/Idle01Anim.uasset'
+[2024.01.03-07.38.23:226][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 826 ms)
+[2024.01.03-07.38.23:228][214]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.03-07.38.23:228][214]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/KSH/Animations/ABP_Boss.ABP_Boss
+[2024.01.03-07.38.23:228][214]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/KSH/Blueprints/BP_Boss.BP_Boss
+[2024.01.03-07.38.23:228][214]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/Idle01Anim.Idle01Anim
+[2024.01.03-07.38.25:246][333]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.38.25:247][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.38.25:255][333]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.38.25:255][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.38.25:288][333]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.38.25:288][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.38.34:622][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.01.03-07.38.35:479][889]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.03-07.38.35:489][889]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim
+	Asset Type: AnimSequence
+[2024.01.03-07.38.35:900][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.03-07.38.35:917][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.03-07.38.35:933][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.03-07.38.42:644][288]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/ScreamAnim.ScreamAnim
+[2024.01.03-07.38.42:644][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.38.42:645][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.38.42:651][288]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.38.42:845][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.38.42:846][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.38.42:961][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.38.42:961][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.38.42:977][288]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2024.01.03-07.38.43:003][288]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.03-07.38.54:770][990]LogViewport: Scene viewport resized to 1141x540, mode Windowed.
+[2024.01.03-07.38.54:858][995]LogViewport: Scene viewport resized to 1141x542, mode Windowed.
+[2024.01.03-07.38.55:745][ 48]LogViewport: Scene viewport resized to 1141x565, mode Windowed.
+[2024.01.03-07.39.04:163][548]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.01.03-07.39.17:909][367]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/AttackHandAnim.AttackHandAnim
+[2024.01.03-07.39.17:959][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.39.17:959][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.39.17:973][367]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.39.17:973][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.40.49:796][854]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/WalkBackAnim.WalkBackAnim
+[2024.01.03-07.40.49:845][854]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.40.49:845][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.40.49:859][854]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.40.49:859][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.41.05:983][811]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/RunAnim.RunAnim
+[2024.01.03-07.41.06:032][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.41.06:032][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.41.06:046][811]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.41.06:046][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.41.21:829][748]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/JumpAnim.JumpAnim
+[2024.01.03-07.41.21:875][748]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.41.21:875][748]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.41.21:889][748]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.41.21:889][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.41.37:450][198]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/AttackHandAnim.AttackHandAnim
+[2024.01.03-07.41.37:497][198]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.41.37:497][198]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.41.37:511][198]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.41.37:511][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.41.49:176][798]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DieAnim.DieAnim
+[2024.01.03-07.41.49:223][798]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.41.49:223][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.41.49:244][798]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.41.49:244][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.41.58:216][328]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/AttackHornAnim.AttackHornAnim
+[2024.01.03-07.41.58:263][328]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.41.58:263][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.41.58:277][328]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.41.58:277][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.42.43:405][121]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/AttackHandAnim.AttackHandAnim
+[2024.01.03-07.42.43:452][121]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.42.43:452][121]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.42.43:466][121]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.42.43:466][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.42.49:143][187]LogSlate: Window 'Create New Animation Object' being destroyed
+[2024.01.03-07.44.00:429][ 82]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/ScreamAnim.ScreamAnim
+[2024.01.03-07.44.00:477][ 82]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.44.00:477][ 82]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.44.00:512][ 82]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.44.00:512][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.45.10:665][847]LogSlate: Window 'Create New Animation Object' being destroyed
+[2024.01.03-07.45.13:767][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.03-07.45.13:782][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/BossTestMap' took 0.035
+[2024.01.03-07.45.13:782][ 16]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim] ([1] browsable assets)...
+[2024.01.03-07.45.13:790][ 16]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim]
+[2024.01.03-07.45.13:790][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim]
+[2024.01.03-07.45.13:797][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim_Auto3
+[2024.01.03-07.45.13:797][ 16]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/FireSpitAnim_Auto3F08A4D134F340EEA91C9CD95FEE4714B.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Saved/Autosaves/Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim_Auto3.uasset'
+[2024.01.03-07.45.13:797][ 16]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.01.03-07.45.14:246][ 42]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim
+[2024.01.03-07.45.14:252][ 42]LogAnimationCompression: Display: Storing compressed animation data for /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim, at AnimationSequence/90b04caf011a4fc854f42e7a9cf66cbe23386794
+[2024.01.03-07.45.16:562][163]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim
+[2024.01.03-07.45.16:614][163]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.45.16:614][163]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.45.16:625][163]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.45.16:625][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.45.26:683][742]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/ScreamAnim.ScreamAnim
+[2024.01.03-07.45.26:735][742]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.45.26:735][742]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.45.26:749][742]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.45.26:749][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.45.36:536][843]LogSlate: Window 'Create New Animation Object' being destroyed
+[2024.01.03-07.45.37:542][843]LogSlate: Window 'Message' being destroyed
+[2024.01.03-07.45.37:592][843]Message dialog closed, result: Ok, title: Message, text: Asset with same name exists. Can't overwrite another asset
+[2024.01.03-07.45.47:910][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.03-07.45.48:635][443]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.03-07.45.48:644][443]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim
+	Asset Type: AnimSequence
+[2024.01.03-07.45.48:937][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.03-07.45.48:953][443]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.03-07.45.48:969][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.03-07.45.57:697][552]LogSlate: Window 'Create New Animation Object' being destroyed
+[2024.01.03-07.46.06:541][ 69]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim
+[2024.01.03-07.46.06:556][ 69]LogAnimationCompression: Display: Storing compressed animation data for /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim, at AnimationSequence/c3b9208130f13707d807e0c92d62173b16bca858
+[2024.01.03-07.46.08:322][157]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim
+[2024.01.03-07.46.08:371][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.46.08:371][157]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.46.08:384][157]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.46.08:384][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.46.18:163][727]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.46.18:163][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.46.18:171][727]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.46.18:171][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.46.18:206][727]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.46.18:207][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.46.21:316][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.01.03-07.46.22:627][907]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.03-07.46.22:636][907]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/FireSpitAnim.FireSpitAnim
+	Asset Type: AnimSequence
+[2024.01.03-07.46.22:930][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.03-07.46.22:947][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.03-07.46.22:962][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.03-07.48.17:760][343]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/ScreamAnim.ScreamAnim
+[2024.01.03-07.48.17:761][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.48.17:761][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.48.17:786][343]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.48.17:983][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.48.17:983][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.48.18:104][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.48.18:104][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.48.18:179][343]LogViewport: Scene viewport resized to 1141x565, mode Windowed.
+[2024.01.03-07.48.18:210][343]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.03-07.48.55:277][297]LogContentBrowser: Attempting asset rename: ScreamAnim -> ScreamAnim
+[2024.01.03-07.49.01:775][683]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/AttackHandAnim.AttackHandAnim
+[2024.01.03-07.49.01:823][683]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.49.01:823][683]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.49.01:837][683]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.49.01:837][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.50.18:776][400]LogContentBrowser: Attempting asset rename: AttackHandAnim -> AttackHandAnim
+[2024.01.03-07.50.18:980][400]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/AttackHornAnim.AttackHornAnim
+[2024.01.03-07.50.19:044][400]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.50.19:044][400]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.50.19:073][400]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.50.19:073][400]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.50.24:831][723]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim
+[2024.01.03-07.50.24:874][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-07.50.24:874][723]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-07.50.24:888][723]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-07.50.24:888][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-07.55.12:976][995]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim
+[2024.01.03-07.55.13:006][996]LogAnimationCompression: Display: Storing compressed animation data for /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim, at AnimationSequence/0d6e530735d35853c6e189cc278d28575620ea92
+[2024.01.03-07.55.19:005][350]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim
+[2024.01.03-07.55.19:033][350]LogAnimationCompression: Display: Storing compressed animation data for /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim, at AnimationSequence/a315b5382ffa24d731bd0832014227a143e15efc
+[2024.01.03-07.55.21:269][481]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim
+[2024.01.03-07.55.21:300][482]LogAnimationCompression: Display: Storing compressed animation data for /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim, at AnimationSequence/64bde61e17f8926f5713cf694f476b45f872e584
+[2024.01.03-07.55.26:663][802]Cmd: TRANSACTION UNDO
+[2024.01.03-07.55.26:663][802]LogEditorTransaction: Undo Insert Animation Sequence
+[2024.01.03-07.55.26:668][802]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim
+[2024.01.03-07.55.26:697][802]LogAnimationCompression: Display: Storing compressed animation data for /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim, at AnimationSequence/7b3dc82fb9d50bbdfe028c5c71366057b19ffc41
+[2024.01.03-07.55.26:981][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.55.26:983][802]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.55.27:265][811]Cmd: TRANSACTION UNDO
+[2024.01.03-07.55.27:265][811]LogEditorTransaction: Undo Insert Animation Sequence
+[2024.01.03-07.55.27:270][811]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim
+[2024.01.03-07.55.27:299][811]LogAnimationCompression: Display: Storing compressed animation data for /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim, at AnimationSequence/818fe29ed9f8cc5e05f3c1ca8dadb49ef80659b4
+[2024.01.03-07.55.27:583][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.55.27:585][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.55.28:157][842]Cmd: TRANSACTION UNDO
+[2024.01.03-07.55.28:157][842]LogEditorTransaction: Undo Insert Animation Sequence
+[2024.01.03-07.55.28:162][842]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim
+[2024.01.03-07.55.28:192][842]LogAnimationCompression: Display: Storing compressed animation data for /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/DefendAnim.DefendAnim, at AnimationSequence/8bd78c00bea28f6a3fe8164f94e04b59f384bed8
+[2024.01.03-07.55.28:471][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.55.28:473][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.56.46:538][565]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.01.03-07.57.46:181][ 40]Cmd: TRANSACTION UNDO
+[2024.01.03-07.57.46:181][ 40]LogEditorTransaction: Undo Rotate Bone
+[2024.01.03-07.57.46:491][ 40]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.57.46:493][ 40]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.58.34:972][877]Cmd: TRANSACTION UNDO
+[2024.01.03-07.58.34:972][877]LogEditorTransaction: Undo Rotate Bone
+[2024.01.03-07.58.35:287][877]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.58.35:289][877]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.58.45:936][490]Cmd: TRANSACTION UNDO
+[2024.01.03-07.58.45:936][490]LogEditorTransaction: Undo Rotate Bone
+[2024.01.03-07.58.46:245][490]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-07.58.46:248][490]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_72:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-08.00.31:021][180]LogContentBrowser: Attempting asset rename: DefendAnim -> DefendAnim
+[2024.01.03-08.00.58:592][444]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/AttackHornAnim.AttackHornAnim
+[2024.01.03-08.01.28:174][108]LogContentBrowser: Attempting asset rename: AttackHornAnim -> AttackHornAnim
+[2024.01.03-08.01.28:358][108]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/GetHitAnim.GetHitAnim
+[2024.01.03-08.02.03:094][606]LogContentBrowser: Attempting asset rename: GetHitAnim -> GetHitAnim
+[2024.01.03-08.03.03:331][ 23]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.03-08.03.03:348][ 23]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.03-08.03.03:360][ 24]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.03-08.03.07:986][302]LogContentBrowser: Attempting asset rename: NewFolder -> Anim
+[2024.01.03-08.03.07:986][302]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.03-08.03.29:588][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.03.29:630][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/AttackHandAnim1" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/AttackHandAnim1.uasset" SILENT=true
+[2024.01.03-08.03.29:639][550]LogSavePackage: Moving output files for package: /Game/KSH/Animations/AttackHandAnim1
+[2024.01.03-08.03.29:639][550]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/AttackHandAnim1193BFB6E4CD193FF3844038F48814BE0.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/AttackHandAnim1.uasset'
+[2024.01.03-08.03.29:652][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/AttackHornAnim1" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/AttackHornAnim1.uasset" SILENT=true
+[2024.01.03-08.03.29:660][550]LogSavePackage: Moving output files for package: /Game/KSH/Animations/AttackHornAnim1
+[2024.01.03-08.03.29:660][550]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/AttackHornAnim1D7EEEA264CEBFD4292D8FD875CEDF482.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/AttackHornAnim1.uasset'
+[2024.01.03-08.03.29:673][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/AttackMouthAnim1" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/AttackMouthAnim1.uasset" SILENT=true
+[2024.01.03-08.03.29:682][550]LogSavePackage: Moving output files for package: /Game/KSH/Animations/AttackMouthAnim1
+[2024.01.03-08.03.29:682][550]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/AttackMouthAnim1BBF2C9DC4E63EF951879518831107122.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/AttackMouthAnim1.uasset'
+[2024.01.03-08.03.29:695][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/GetHitAnim1" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/GetHitAnim1.uasset" SILENT=true
+[2024.01.03-08.03.29:704][550]LogSavePackage: Moving output files for package: /Game/KSH/Animations/GetHitAnim1
+[2024.01.03-08.03.29:704][550]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/GetHitAnim1114322484CB482ED51F0379B30860585.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/GetHitAnim1.uasset'
+[2024.01.03-08.03.29:718][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Idle01Anim1" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Idle01Anim1.uasset" SILENT=true
+[2024.01.03-08.03.29:727][550]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Idle01Anim1
+[2024.01.03-08.03.29:727][550]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/Idle01Anim1A33EC4934D2AB20F05D4F9BDE62166E0.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Idle01Anim1.uasset'
+[2024.01.03-08.03.29:740][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/ScreamAnim1" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/ScreamAnim1.uasset" SILENT=true
+[2024.01.03-08.03.29:749][550]LogSavePackage: Moving output files for package: /Game/KSH/Animations/ScreamAnim1
+[2024.01.03-08.03.29:749][550]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/ScreamAnim1384F10BF4591ED1CA3F247982D8BA71A.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/ScreamAnim1.uasset'
+[2024.01.03-08.03.29:762][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 1.00 sec)
+[2024.01.03-08.03.29:812][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.03-08.03.29:834][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.03-08.03.29:849][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.03-08.03.29:864][550]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.03-08.03.29:864][550]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/AttackHandAnim1.AttackHandAnim1
+[2024.01.03-08.03.29:864][550]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/AttackHornAnim1.AttackHornAnim1
+[2024.01.03-08.03.29:864][550]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/AttackMouthAnim1.AttackMouthAnim1
+[2024.01.03-08.03.29:864][550]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/GetHitAnim1.GetHitAnim1
+[2024.01.03-08.03.29:864][550]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Idle01Anim1.Idle01Anim1
+[2024.01.03-08.03.29:864][550]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/ScreamAnim1.ScreamAnim1
+[2024.01.03-08.03.35:905][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.03.35:926][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/ScreamAnim1" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/ScreamAnim1.uasset" SILENT=true
+[2024.01.03-08.03.35:934][896]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/ScreamAnim1
+[2024.01.03-08.03.35:934][896]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/ScreamAnim10B02C5E34A447AB46B3094AEC4309047.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/ScreamAnim1.uasset'
+[2024.01.03-08.03.35:942][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/Idle01Anim1" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/Idle01Anim1.uasset" SILENT=true
+[2024.01.03-08.03.35:950][896]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/Idle01Anim1
+[2024.01.03-08.03.35:951][896]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/Idle01Anim1613C61FD4AF8B4A0768CC08E5683F9A5.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/Idle01Anim1.uasset'
+[2024.01.03-08.03.35:958][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/GetHitAnim1" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/GetHitAnim1.uasset" SILENT=true
+[2024.01.03-08.03.35:966][896]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/GetHitAnim1
+[2024.01.03-08.03.35:966][896]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/GetHitAnim1DBBF2065413BA226A158598D6610D9E4.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/GetHitAnim1.uasset'
+[2024.01.03-08.03.35:974][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/AttackMouthAnim1" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/AttackMouthAnim1.uasset" SILENT=true
+[2024.01.03-08.03.35:982][896]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/AttackMouthAnim1
+[2024.01.03-08.03.35:982][896]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/AttackMouthAnim1001418754C8B80FE0C7E96A0F712A6B0.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/AttackMouthAnim1.uasset'
+[2024.01.03-08.03.35:989][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/AttackHornAnim1" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/AttackHornAnim1.uasset" SILENT=true
+[2024.01.03-08.03.35:999][896]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/AttackHornAnim1
+[2024.01.03-08.03.35:999][896]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/AttackHornAnim14C41407143FE97F8C61ADCB1177D6C3E.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/AttackHornAnim1.uasset'
+[2024.01.03-08.03.36:007][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/AttackHandAnim1" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/AttackHandAnim1.uasset" SILENT=true
+[2024.01.03-08.03.36:015][896]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/AttackHandAnim1
+[2024.01.03-08.03.36:015][896]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/AttackHandAnim1402025324FD09AC7A16002B572F70C10.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/AttackHandAnim1.uasset'
+[2024.01.03-08.03.36:030][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1.12 sec)
+[2024.01.03-08.03.36:114][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.03-08.03.36:133][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.03-08.03.36:147][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.03-08.03.36:160][896]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.03-08.03.36:160][896]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/ScreamAnim1.ScreamAnim1
+[2024.01.03-08.03.36:160][896]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/Idle01Anim1.Idle01Anim1
+[2024.01.03-08.03.36:160][896]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/GetHitAnim1.GetHitAnim1
+[2024.01.03-08.03.36:160][896]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/AttackMouthAnim1.AttackMouthAnim1
+[2024.01.03-08.03.36:160][896]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/AttackHornAnim1.AttackHornAnim1
+[2024.01.03-08.03.36:160][896]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/AttackHandAnim1.AttackHandAnim1
+[2024.01.03-08.03.36:726][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.03.36:759][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BossTestMap" FILE="D:/Github/Lostark_Jagan/Jagan/Content/Maps/BossTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.03-08.03.36:801][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.03-08.03.36:806][929]LogSavePackage: Moving output files for package: /Game/Maps/BossTestMap
+[2024.01.03-08.03.36:807][929]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/BossTestMapCE5BA4614B6E59F709ABC4816755E690.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/Maps/BossTestMap.umap'
+[2024.01.03-08.03.36:816][929]LogFileHelpers: Saving map 'BossTestMap' took 0.057
+[2024.01.03-08.03.36:821][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.22 sec)
+[2024.01.03-08.03.36:822][929]AssetCheck: New page: Asset Save: BossTestMap
+[2024.01.03-08.03.36:822][929]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/BossTestMap.BossTestMap
+[2024.01.03-08.03.38:740][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.03-08.03.39:863][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.01.03-08.04.07:406][198]LogContentBrowser: Attempting asset rename: AttackHandAnim1 -> A_Attack
+[2024.01.03-08.04.07:433][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.04.07:476][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/A_Attack" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_Attack.uasset" SILENT=true
+[2024.01.03-08.04.07:485][198]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/A_Attack
+[2024.01.03-08.04.07:485][198]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/A_AttackFB8783924A9D139DF1FDC28C093E35C0.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_Attack.uasset'
+[2024.01.03-08.04.07:500][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.28 sec)
+[2024.01.03-08.04.07:527][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.01.03-08.04.07:543][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.01.03-08.04.07:558][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.03-08.04.07:572][198]AssetCheck: New page: Asset Save: A_Attack
+[2024.01.03-08.04.07:572][198]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/A_Attack.A_Attack
+[2024.01.03-08.04.12:119][380]LogContentBrowser: Attempting asset rename: A_Attack -> A_AttackscratchAnim
+[2024.01.03-08.04.12:143][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.04.12:168][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/A_AttackscratchAnim" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_AttackscratchAnim.uasset" SILENT=true
+[2024.01.03-08.04.12:176][380]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/A_AttackscratchAnim
+[2024.01.03-08.04.12:176][380]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/A_AttackscratchAnimFE9F0CDA48C7B6E3200DD082A6A7F5A1.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_AttackscratchAnim.uasset'
+[2024.01.03-08.04.12:188][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 1.33 sec)
+[2024.01.03-08.04.12:215][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.03-08.04.12:230][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.03-08.04.12:245][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.03-08.04.12:248][380]AssetCheck: New page: Asset Save: A_AttackscratchAnim
+[2024.01.03-08.04.12:248][380]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/A_AttackscratchAnim.A_AttackscratchAnim
+[2024.01.03-08.04.45:981][641]LogContentBrowser: Attempting asset rename: A_AttackscratchAnim -> A_AttackscratchAnim
+[2024.01.03-08.04.48:006][753]LogContentBrowser: Attempting asset rename: A_AttackscratchAnim -> A_ScratchAnim
+[2024.01.03-08.04.48:029][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.04.48:048][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/A_ScratchAnim" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_ScratchAnim.uasset" SILENT=true
+[2024.01.03-08.04.48:057][753]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/A_ScratchAnim
+[2024.01.03-08.04.48:057][753]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/A_ScratchAnim1B9C2CF94203885498219497622D1DA5.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_ScratchAnim.uasset'
+[2024.01.03-08.04.48:069][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1.37 sec)
+[2024.01.03-08.04.48:095][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.03-08.04.48:111][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.03-08.04.48:127][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.01.03-08.04.48:130][753]AssetCheck: New page: Asset Save: A_ScratchAnim
+[2024.01.03-08.04.48:130][753]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/A_ScratchAnim.A_ScratchAnim
+[2024.01.03-08.06.14:850][404]LogContentBrowser: Attempting asset rename: GetHitAnim1 -> A_HitAnim
+[2024.01.03-08.06.14:873][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.06.14:897][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/A_HitAnim" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_HitAnim.uasset" SILENT=true
+[2024.01.03-08.06.14:905][404]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/A_HitAnim
+[2024.01.03-08.06.14:905][404]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/A_HitAnimE7306AC945EBAD7BD4753E97AD50F014.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_HitAnim.uasset'
+[2024.01.03-08.06.14:917][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1.41 sec)
+[2024.01.03-08.06.14:945][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.01.03-08.06.14:961][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.03-08.06.14:976][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.01.03-08.06.14:979][404]AssetCheck: New page: Asset Save: A_HitAnim
+[2024.01.03-08.06.14:979][404]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/A_HitAnim.A_HitAnim
+[2024.01.03-08.06.30:355][228]LogContentBrowser: Attempting asset rename: AttackHornAnim1 -> A_StretchAnim
+[2024.01.03-08.06.30:378][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.06.30:398][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/A_StretchAnim" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_StretchAnim.uasset" SILENT=true
+[2024.01.03-08.06.30:406][228]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/A_StretchAnim
+[2024.01.03-08.06.30:406][228]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/A_StretchAnim4CC35D124E09BDE4174017BE222D91DB.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_StretchAnim.uasset'
+[2024.01.03-08.06.30:419][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.45 sec)
+[2024.01.03-08.06.30:442][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.03-08.06.30:458][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.03-08.06.30:472][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.03-08.06.30:475][228]AssetCheck: New page: Asset Save: A_StretchAnim
+[2024.01.03-08.06.30:475][228]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/A_StretchAnim.A_StretchAnim
+[2024.01.03-08.06.34:918][360]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/KSH/Animations/Anim/AttackMouthAnim1.AttackMouthAnim1
+[2024.01.03-08.06.40:378][677]LogContentBrowser: Attempting asset rename: AttackMouthAnim1 -> A_MouthAnim
+[2024.01.03-08.06.40:414][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.06.40:445][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/A_MouthAnim" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_MouthAnim.uasset" SILENT=true
+[2024.01.03-08.06.40:454][677]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/A_MouthAnim
+[2024.01.03-08.06.40:454][677]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/A_MouthAnim396897AD4BBCBB9CF7D747B8D48FD7AE.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_MouthAnim.uasset'
+[2024.01.03-08.06.40:468][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 1.51 sec)
+[2024.01.03-08.06.40:494][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.03-08.06.40:511][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.01.03-08.06.40:525][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.03-08.06.40:529][677]AssetCheck: New page: Asset Save: A_MouthAnim
+[2024.01.03-08.06.40:529][677]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/A_MouthAnim.A_MouthAnim
+[2024.01.03-08.06.51:306][227]LogContentBrowser: Attempting asset rename: ScreamAnim1 -> A_FireSpitAnim
+[2024.01.03-08.06.51:329][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.06.51:347][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/A_FireSpitAnim" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_FireSpitAnim.uasset" SILENT=true
+[2024.01.03-08.06.51:356][227]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/A_FireSpitAnim
+[2024.01.03-08.06.51:356][227]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/A_FireSpitAnim9BC5ECE64A372AC230B6A382FBDABFCB.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_FireSpitAnim.uasset'
+[2024.01.03-08.06.51:368][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1.55 sec)
+[2024.01.03-08.06.51:397][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.03-08.06.51:414][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.03-08.06.51:430][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.01.03-08.06.51:434][227]AssetCheck: New page: Asset Save: A_FireSpitAnim
+[2024.01.03-08.06.51:435][227]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/A_FireSpitAnim.A_FireSpitAnim
+[2024.01.03-08.07.02:831][368]LogContentBrowser: Attempting asset rename: Idle01Anim1 -> A_IdleAnim
+[2024.01.03-08.07.02:855][368]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.07.02:884][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/A_IdleAnim" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_IdleAnim.uasset" SILENT=true
+[2024.01.03-08.07.02:893][368]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/A_IdleAnim
+[2024.01.03-08.07.02:893][368]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/A_IdleAnim4549AA5B458737A7DC4E48839DDB6F76.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_IdleAnim.uasset'
+[2024.01.03-08.07.02:905][368]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 1.60 sec)
+[2024.01.03-08.07.02:932][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.03-08.07.02:948][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.01.03-08.07.02:963][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.01.03-08.07.02:967][368]AssetCheck: New page: Asset Save: A_IdleAnim
+[2024.01.03-08.07.02:967][368]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/A_IdleAnim.A_IdleAnim
+[2024.01.03-08.07.03:286][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.07.03:314][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/Anim/A_IdleAnim" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_IdleAnim.uasset" SILENT=true
+[2024.01.03-08.07.03:322][386]LogSavePackage: Moving output files for package: /Game/KSH/Animations/Anim/A_IdleAnim
+[2024.01.03-08.07.03:322][386]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/A_IdleAnimC39956264624EB8AF03FE2B8C10A2F41.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/Anim/A_IdleAnim.uasset'
+[2024.01.03-08.07.03:327][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.64 sec)
+[2024.01.03-08.07.03:330][386]AssetCheck: New page: Asset Save: A_IdleAnim
+[2024.01.03-08.07.03:330][386]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/KSH/Animations/Anim/A_IdleAnim.A_IdleAnim
+[2024.01.03-08.07.06:495][575]BlueprintLog: New page: Compile ABP_Boss
+[2024.01.03-08.07.06:502][575]LogBlueprint: Error: [AssetLog] D:\Github\Lostark_Jagan\Jagan\Content\KSH\Animations\ABP_Boss.uasset: [Compiler] The current value of the ' Instanced Struct ' pin is invalid: 'Instanced Struct' in action 'Is Valid (Branch)' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.01.03-08.07.06:521][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.03-08.07.15:171][ 91]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FourEvilDragonsPBR/Animations/DragonTheNightmare/Idle01Anim.Idle01Anim
+[2024.01.03-08.07.19:011][314]LogWorld: UWorld::CleanupWorld for World_77, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-08.07.19:011][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.07.19:023][314]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-08.07.19:023][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.07.19:061][314]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-08.07.19:061][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.07.28:965][890]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/KSH/Animations/Anim/A_IdleAnim.A_IdleAnim
+[2024.01.03-08.07.28:965][890]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-08.07.28:965][890]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-08.07.28:973][890]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_78:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-08.07.29:161][890]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-08.07.29:161][890]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-08.07.29:266][890]LogViewport: Scene viewport resized to 1141x565, mode Windowed.
+[2024.01.03-08.07.29:293][890]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.03-08.07.33:400][129]BlueprintLog: New page: Compile ABP_Boss
+[2024.01.03-08.07.33:403][129]LogBlueprint: Error: [AssetLog] D:\Github\Lostark_Jagan\Jagan\Content\KSH\Animations\ABP_Boss.uasset: [Compiler] The current value of the ' Instanced Struct ' pin is invalid: 'Instanced Struct' in action 'Is Valid (Branch)' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.01.03-08.07.33:425][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.03-08.07.44:930][814]BlueprintLog: New page: Compile ABP_Boss
+[2024.01.03-08.07.44:932][814]LogBlueprint: Error: [AssetLog] D:\Github\Lostark_Jagan\Jagan\Content\KSH\Animations\ABP_Boss.uasset: [Compiler] The current value of the ' Instanced Struct ' pin is invalid: 'Instanced Struct' in action 'Is Valid (Branch)' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.01.03-08.07.44:952][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.01.03-08.08.53:151][937]BlueprintLog: New page: Compile ABP_Boss
+[2024.01.03-08.08.53:172][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.03-08.08.53:936][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.08.53:975][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/ABP_Boss" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/ABP_Boss.uasset" SILENT=true
+[2024.01.03-08.08.53:981][981]LogSavePackage: Moving output files for package: /Game/KSH/Animations/ABP_Boss
+[2024.01.03-08.08.53:981][981]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/ABP_BossA273BCD44BE42AD831EBBFA3B50FC3F7.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/ABP_Boss.uasset'
+[2024.01.03-08.08.53:986][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.69 sec)
+[2024.01.03-08.08.53:989][981]AssetCheck: New page: Asset Save: ABP_Boss
+[2024.01.03-08.08.53:989][981]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/KSH/Animations/ABP_Boss.ABP_Boss
+[2024.01.03-08.08.57:998][221]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.03-08.08.58:002][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.03-08.08.58:002][221]PIE: New page: PIE session: BossTestMap (2024. 1. 4. 오전 2:08:58)
+[2024.01.03-08.08.58:002][221]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.08.58:005][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001790s)
+[2024.01.03-08.08.58:005][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossTestMap.BossTestMap to /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap (0.001840s)
+[2024.01.03-08.08.58:018][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.03-08.08.58:021][221]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-08.08.58:021][221]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-08.08.58:021][221]LogAIModule: Creating AISystem for world BossTestMap
+[2024.01.03-08.08.58:022][221]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2024.01.03-08.08.58:022][221]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.01.03-08.08.58:022][221]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.03-08.08.58:022][221]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.03-08.08.58:022][221]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.03-08.08.58:022][221]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.03-08.08.58:022][221]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.03-08.08.58:022][221]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.03-08.08.58:022][221]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.03-08.08.58:022][221]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.03-08.08.58:022][221]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.03-08.08.58:022][221]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.03-08.08.58:022][221]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.03-08.08.58:024][221]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.03-08.08.58:039][221]LogAudioMixer: Display: Using Audio Hardware Device LG FHD(NVIDIA High Definition Audio)
+[2024.01.03-08.08.58:039][221]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.03-08.08.58:039][221]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.03-08.08.58:039][221]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.03-08.08.58:040][221]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.01.03-08.08.58:040][221]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.01.03-08.08.58:042][221]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.01.03-08.08.58:042][221]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.01.03-08.08.58:042][221]LogInit: FAudioDevice initialized with ID 9.
+[2024.01.03-08.08.58:042][221]LogAudio: Display: Audio Device (ID: 9) registered with world 'BossTestMap'.
+[2024.01.03-08.08.58:042][221]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.01.03-08.08.58:047][221]LogLoad: Game class is 'GameModeBase'
+[2024.01.03-08.08.58:048][221]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap up for play (max tick rate 60) at 2024.01.03-17.08.58
+[2024.01.03-08.08.58:048][221]LogWorld: Bringing up level for play took: 0.000672
+[2024.01.03-08.08.58:050][221]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2024.01.03-08.08.58:051][221]PIE: Server logged in
+[2024.01.03-08.08.58:052][221]PIE: Play in editor total start time 0.051 seconds.
+[2024.01.03-08.09.02:840][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.09.02:840][506]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.09.02:840][506]LogWorld: UWorld::CleanupWorld for BossTestMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-08.09.02:840][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.09.02:844][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.03-08.09.02:848][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.09.02:860][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.09.02:860][506]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.01.03-08.09.02:860][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.01.03-08.09.02:865][506]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.01.03-08.09.02:871][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.03-08.09.02:949][508]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2024.01.03-08.09.45:075][415]LogEditorTransaction: Undo Add Node
+[2024.01.03-08.09.45:304][415]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-08.09.45:306][415]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_78:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.03-08.09.59:669][205]BlueprintLog: New page: Compile ABP_Boss
+[2024.01.03-08.09.59:693][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.03-08.10.05:463][549]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.03-08.10.05:467][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.03-08.10.05:467][549]PIE: New page: PIE session: BossTestMap (2024. 1. 4. 오전 2:10:05)
+[2024.01.03-08.10.05:500][549]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.10.05:502][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001921s)
+[2024.01.03-08.10.05:502][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossTestMap.BossTestMap to /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap (0.001964s)
+[2024.01.03-08.10.05:516][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.03-08.10.05:518][549]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-08.10.05:518][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-08.10.05:519][549]LogAIModule: Creating AISystem for world BossTestMap
+[2024.01.03-08.10.05:519][549]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2024.01.03-08.10.05:519][549]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.01.03-08.10.05:519][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.03-08.10.05:519][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.03-08.10.05:519][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.03-08.10.05:519][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.03-08.10.05:519][549]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.03-08.10.05:519][549]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.03-08.10.05:519][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.03-08.10.05:519][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.03-08.10.05:520][549]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.03-08.10.05:520][549]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.03-08.10.05:520][549]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.03-08.10.05:522][549]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.03-08.10.05:534][549]LogAudioMixer: Display: Using Audio Hardware Device LG FHD(NVIDIA High Definition Audio)
+[2024.01.03-08.10.05:535][549]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.03-08.10.05:535][549]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.03-08.10.05:535][549]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.03-08.10.05:535][549]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.01.03-08.10.05:535][549]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.01.03-08.10.05:537][549]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.01.03-08.10.05:537][549]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.01.03-08.10.05:537][549]LogInit: FAudioDevice initialized with ID 10.
+[2024.01.03-08.10.05:537][549]LogAudio: Display: Audio Device (ID: 10) registered with world 'BossTestMap'.
+[2024.01.03-08.10.05:537][549]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.01.03-08.10.05:540][549]LogLoad: Game class is 'GameModeBase'
+[2024.01.03-08.10.05:540][549]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap up for play (max tick rate 60) at 2024.01.03-17.10.05
+[2024.01.03-08.10.05:540][549]LogWorld: Bringing up level for play took: 0.000621
+[2024.01.03-08.10.05:542][549]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2024.01.03-08.10.05:543][549]PIE: Server logged in
+[2024.01.03-08.10.05:544][549]PIE: Play in editor total start time 0.078 seconds.
+[2024.01.03-08.10.09:100][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.10.09:100][760]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.10.09:100][760]LogWorld: UWorld::CleanupWorld for BossTestMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-08.10.09:100][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.10.09:103][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.03-08.10.09:107][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.10.09:120][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.10.09:120][760]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.01.03-08.10.09:120][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.03-08.10.09:122][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.03-08.10.09:129][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.03-08.10.09:219][762]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2024.01.03-08.10.11:169][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.10.11:207][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/ABP_Boss" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/ABP_Boss.uasset" SILENT=true
+[2024.01.03-08.10.11:214][877]LogSavePackage: Moving output files for package: /Game/KSH/Animations/ABP_Boss
+[2024.01.03-08.10.11:214][877]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/ABP_Boss023B40504587BDA85FF6F189EE0C67BE.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/ABP_Boss.uasset'
+[2024.01.03-08.10.11:220][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.74 sec)
+[2024.01.03-08.10.11:224][877]AssetCheck: New page: Asset Save: ABP_Boss
+[2024.01.03-08.10.11:224][877]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/KSH/Animations/ABP_Boss.ABP_Boss
+[2024.01.03-08.10.12:288][940]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.03-08.10.12:291][940]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.03-08.10.12:291][940]PIE: New page: PIE session: BossTestMap (2024. 1. 4. 오전 2:10:12)
+[2024.01.03-08.10.12:292][940]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.10.12:293][940]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001686s)
+[2024.01.03-08.10.12:293][940]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossTestMap.BossTestMap to /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap (0.001718s)
+[2024.01.03-08.10.12:307][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.03-08.10.12:311][940]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-08.10.12:311][940]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-08.10.12:311][940]LogAIModule: Creating AISystem for world BossTestMap
+[2024.01.03-08.10.12:311][940]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2024.01.03-08.10.12:312][940]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.01.03-08.10.12:312][940]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.03-08.10.12:312][940]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.03-08.10.12:312][940]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.03-08.10.12:312][940]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.03-08.10.12:312][940]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.03-08.10.12:312][940]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.03-08.10.12:312][940]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.03-08.10.12:312][940]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.03-08.10.12:312][940]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.03-08.10.12:312][940]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.03-08.10.12:312][940]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.03-08.10.12:314][940]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.03-08.10.12:326][940]LogAudioMixer: Display: Using Audio Hardware Device LG FHD(NVIDIA High Definition Audio)
+[2024.01.03-08.10.12:326][940]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.03-08.10.12:326][940]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.03-08.10.12:326][940]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.03-08.10.12:326][940]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.01.03-08.10.12:326][940]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.01.03-08.10.12:328][940]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.01.03-08.10.12:328][940]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.01.03-08.10.12:328][940]LogInit: FAudioDevice initialized with ID 11.
+[2024.01.03-08.10.12:328][940]LogAudio: Display: Audio Device (ID: 11) registered with world 'BossTestMap'.
+[2024.01.03-08.10.12:328][940]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.01.03-08.10.12:331][940]LogLoad: Game class is 'GameModeBase'
+[2024.01.03-08.10.12:331][940]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap up for play (max tick rate 60) at 2024.01.03-17.10.12
+[2024.01.03-08.10.12:331][940]LogWorld: Bringing up level for play took: 0.000646
+[2024.01.03-08.10.12:334][940]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2024.01.03-08.10.12:335][940]PIE: Server logged in
+[2024.01.03-08.10.12:336][940]PIE: Play in editor total start time 0.045 seconds.
+[2024.01.03-08.10.13:500][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.10.13:500][  7]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.10.13:500][  7]LogWorld: UWorld::CleanupWorld for BossTestMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-08.10.13:500][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.10.13:512][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.03-08.10.13:516][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.10.13:529][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.10.13:529][  7]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.01.03-08.10.13:529][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.01.03-08.10.13:532][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.01.03-08.10.13:539][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.01.03-08.10.13:595][  9]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2024.01.03-08.10.15:676][133]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.03-08.10.15:681][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.03-08.10.15:681][133]PIE: New page: PIE session: BossTestMap (2024. 1. 4. 오전 2:10:15)
+[2024.01.03-08.10.15:681][133]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.10.15:683][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001660s)
+[2024.01.03-08.10.15:683][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossTestMap.BossTestMap to /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap (0.001692s)
+[2024.01.03-08.10.15:697][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.01.03-08.10.15:699][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-08.10.15:699][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-08.10.15:700][133]LogAIModule: Creating AISystem for world BossTestMap
+[2024.01.03-08.10.15:700][133]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2024.01.03-08.10.15:700][133]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.01.03-08.10.15:700][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.03-08.10.15:700][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.03-08.10.15:700][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.03-08.10.15:700][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.03-08.10.15:700][133]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.03-08.10.15:700][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.03-08.10.15:700][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.03-08.10.15:700][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.03-08.10.15:701][133]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.03-08.10.15:701][133]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.03-08.10.15:701][133]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.03-08.10.15:702][133]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.03-08.10.15:715][133]LogAudioMixer: Display: Using Audio Hardware Device LG FHD(NVIDIA High Definition Audio)
+[2024.01.03-08.10.15:715][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.03-08.10.15:715][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.03-08.10.15:715][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.03-08.10.15:715][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.01.03-08.10.15:715][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.01.03-08.10.15:717][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.01.03-08.10.15:717][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.01.03-08.10.15:717][133]LogInit: FAudioDevice initialized with ID 12.
+[2024.01.03-08.10.15:717][133]LogAudio: Display: Audio Device (ID: 12) registered with world 'BossTestMap'.
+[2024.01.03-08.10.15:717][133]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.01.03-08.10.15:803][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.10.15:804][133]LogLoad: Game class is 'GameModeBase'
+[2024.01.03-08.10.15:805][133]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap up for play (max tick rate 60) at 2024.01.03-17.10.15
+[2024.01.03-08.10.15:805][133]LogWorld: Bringing up level for play took: 0.000797
+[2024.01.03-08.10.15:807][133]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2024.01.03-08.10.15:808][133]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.01.03-08.10.15:811][133]PIE: Server logged in
+[2024.01.03-08.10.15:812][133]PIE: Play in editor total start time 0.131 seconds.
+[2024.01.03-08.10.15:822][133]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.01.03-08.10.17:191][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.10.17:191][208]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.10.17:191][208]LogSlate: Window 'Jagan Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.01.03-08.10.17:193][208]LogWorld: UWorld::CleanupWorld for BossTestMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-08.10.17:193][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.10.17:195][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.03-08.10.17:199][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.10.17:213][208]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.01.03-08.10.17:213][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.01.03-08.10.17:224][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.01.03-08.10.17:230][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.03-08.10.17:261][209]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2024.01.03-08.10.26:957][790]BlueprintLog: New page: Compile ABP_Boss
+[2024.01.03-08.10.26:979][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.03-08.10.42:378][711]BlueprintLog: New page: Compile ABP_Boss
+[2024.01.03-08.10.42:400][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.03-08.10.44:168][815]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.03-08.10.44:172][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.03-08.10.44:172][815]PIE: New page: PIE session: BossTestMap (2024. 1. 4. 오전 2:10:44)
+[2024.01.03-08.10.44:172][815]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.10.44:174][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001895s)
+[2024.01.03-08.10.44:174][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossTestMap.BossTestMap to /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap (0.001926s)
+[2024.01.03-08.10.44:188][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.03-08.10.44:191][815]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-08.10.44:192][815]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-08.10.44:192][815]LogAIModule: Creating AISystem for world BossTestMap
+[2024.01.03-08.10.44:192][815]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2024.01.03-08.10.44:192][815]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.03-08.10.44:192][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.03-08.10.44:192][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.03-08.10.44:192][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.03-08.10.44:192][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.03-08.10.44:192][815]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.03-08.10.44:192][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.03-08.10.44:192][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.03-08.10.44:192][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.03-08.10.44:193][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.03-08.10.44:193][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.03-08.10.44:193][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.03-08.10.44:195][815]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.03-08.10.44:208][815]LogAudioMixer: Display: Using Audio Hardware Device LG FHD(NVIDIA High Definition Audio)
+[2024.01.03-08.10.44:209][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.03-08.10.44:209][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.03-08.10.44:209][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.03-08.10.44:209][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.01.03-08.10.44:209][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.01.03-08.10.44:211][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.01.03-08.10.44:211][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.01.03-08.10.44:211][815]LogInit: FAudioDevice initialized with ID 13.
+[2024.01.03-08.10.44:211][815]LogAudio: Display: Audio Device (ID: 13) registered with world 'BossTestMap'.
+[2024.01.03-08.10.44:211][815]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.03-08.10.44:213][815]LogLoad: Game class is 'GameModeBase'
+[2024.01.03-08.10.44:214][815]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap up for play (max tick rate 60) at 2024.01.03-17.10.44
+[2024.01.03-08.10.44:214][815]LogWorld: Bringing up level for play took: 0.000654
+[2024.01.03-08.10.44:216][815]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2024.01.03-08.10.44:218][815]PIE: Server logged in
+[2024.01.03-08.10.44:218][815]PIE: Play in editor total start time 0.047 seconds.
+[2024.01.03-08.10.45:430][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.10.45:430][883]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.10.45:430][883]LogWorld: UWorld::CleanupWorld for BossTestMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-08.10.45:431][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.10.45:433][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.03-08.10.45:437][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.10.45:450][883]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.03-08.10.45:450][883]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.03-08.10.45:450][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.03-08.10.45:452][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.03-08.10.45:455][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.10.45:458][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.03-08.10.45:516][885]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2024.01.03-08.10.48:134][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.10.48:171][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/KSH/Animations/ABP_Boss" FILE="D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/ABP_Boss.uasset" SILENT=true
+[2024.01.03-08.10.48:177][ 40]LogSavePackage: Moving output files for package: /Game/KSH/Animations/ABP_Boss
+[2024.01.03-08.10.48:177][ 40]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/ABP_Boss5A1E4C4B4FC4C5066B28159ACBAD3E20.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/KSH/Animations/ABP_Boss.uasset'
+[2024.01.03-08.10.48:182][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1.79 sec)
+[2024.01.03-08.10.48:185][ 40]AssetCheck: New page: Asset Save: ABP_Boss
+[2024.01.03-08.10.48:185][ 40]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/KSH/Animations/ABP_Boss.ABP_Boss
+[2024.01.03-08.10.49:277][106]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.03-08.10.49:281][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.03-08.10.49:281][106]PIE: New page: PIE session: BossTestMap (2024. 1. 4. 오전 2:10:49)
+[2024.01.03-08.10.49:281][106]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.10.49:283][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001695s)
+[2024.01.03-08.10.49:283][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossTestMap.BossTestMap to /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap (0.001729s)
+[2024.01.03-08.10.49:297][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.03-08.10.49:303][106]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-08.10.49:303][106]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-08.10.49:304][106]LogAIModule: Creating AISystem for world BossTestMap
+[2024.01.03-08.10.49:304][106]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2024.01.03-08.10.49:304][106]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.03-08.10.49:304][106]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.03-08.10.49:304][106]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.03-08.10.49:304][106]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.03-08.10.49:304][106]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.03-08.10.49:304][106]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.03-08.10.49:304][106]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.03-08.10.49:304][106]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.03-08.10.49:304][106]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.03-08.10.49:305][106]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.03-08.10.49:305][106]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.03-08.10.49:305][106]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.03-08.10.49:306][106]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.03-08.10.49:319][106]LogAudioMixer: Display: Using Audio Hardware Device LG FHD(NVIDIA High Definition Audio)
+[2024.01.03-08.10.49:319][106]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.03-08.10.49:319][106]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.03-08.10.49:319][106]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.03-08.10.49:320][106]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.01.03-08.10.49:320][106]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.01.03-08.10.49:322][106]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.01.03-08.10.49:322][106]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.01.03-08.10.49:322][106]LogInit: FAudioDevice initialized with ID 14.
+[2024.01.03-08.10.49:322][106]LogAudio: Display: Audio Device (ID: 14) registered with world 'BossTestMap'.
+[2024.01.03-08.10.49:322][106]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.03-08.10.49:324][106]LogLoad: Game class is 'GameModeBase'
+[2024.01.03-08.10.49:325][106]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap up for play (max tick rate 60) at 2024.01.03-17.10.49
+[2024.01.03-08.10.49:325][106]LogWorld: Bringing up level for play took: 0.000626
+[2024.01.03-08.10.49:327][106]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2024.01.03-08.10.49:328][106]PIE: Server logged in
+[2024.01.03-08.10.49:329][106]PIE: Play in editor total start time 0.048 seconds.
+[2024.01.03-08.10.53:211][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.10.53:211][334]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.10.53:211][334]LogWorld: UWorld::CleanupWorld for BossTestMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-08.10.53:211][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.10.53:214][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.03-08.10.53:218][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.10.53:230][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.10.53:230][334]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.03-08.10.53:230][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.03-08.10.53:232][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.03-08.10.53:237][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.01.03-08.10.53:315][336]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2024.01.03-08.10.56:982][555]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.03-08.10.56:986][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.03-08.10.56:986][555]PIE: New page: PIE session: BossTestMap (2024. 1. 4. 오전 2:10:56)
+[2024.01.03-08.10.57:020][555]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.10.57:021][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001749s)
+[2024.01.03-08.10.57:021][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossTestMap.BossTestMap to /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap (0.001790s)
+[2024.01.03-08.10.57:035][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.03-08.10.57:038][555]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-08.10.57:038][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-08.10.57:039][555]LogAIModule: Creating AISystem for world BossTestMap
+[2024.01.03-08.10.57:039][555]LogPlayLevel: PIE: World Init took: (0.000935s)
+[2024.01.03-08.10.57:039][555]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.01.03-08.10.57:039][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.03-08.10.57:039][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.03-08.10.57:039][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.03-08.10.57:039][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.03-08.10.57:039][555]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.03-08.10.57:039][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.03-08.10.57:039][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.03-08.10.57:039][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.03-08.10.57:039][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.03-08.10.57:039][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.03-08.10.57:039][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.03-08.10.57:041][555]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.03-08.10.57:055][555]LogAudioMixer: Display: Using Audio Hardware Device LG FHD(NVIDIA High Definition Audio)
+[2024.01.03-08.10.57:055][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.03-08.10.57:055][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.03-08.10.57:055][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.03-08.10.57:055][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.01.03-08.10.57:056][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.01.03-08.10.57:057][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.01.03-08.10.57:057][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.01.03-08.10.57:057][555]LogInit: FAudioDevice initialized with ID 15.
+[2024.01.03-08.10.57:057][555]LogAudio: Display: Audio Device (ID: 15) registered with world 'BossTestMap'.
+[2024.01.03-08.10.57:057][555]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.01.03-08.10.57:060][555]LogLoad: Game class is 'GameModeBase'
+[2024.01.03-08.10.57:060][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap up for play (max tick rate 60) at 2024.01.03-17.10.57
+[2024.01.03-08.10.57:060][555]LogWorld: Bringing up level for play took: 0.000617
+[2024.01.03-08.10.57:062][555]LogOnline: OSS: Created online subsystem instance for: :Context_94
+[2024.01.03-08.10.57:064][555]PIE: Server logged in
+[2024.01.03-08.10.57:065][555]PIE: Play in editor total start time 0.078 seconds.
+[2024.01.03-08.10.58:330][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.10.58:330][627]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.10.58:330][627]LogWorld: UWorld::CleanupWorld for BossTestMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-08.10.58:330][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.10.58:333][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.03-08.10.58:337][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.10.58:349][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.10.58:349][627]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.01.03-08.10.58:349][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.01.03-08.10.58:351][627]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.01.03-08.10.58:357][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.01.03-08.10.58:415][629]LogPlayLevel: Display: Destroying online subsystem :Context_94
+[2024.01.03-08.11.08:903][238]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.03-08.11.08:908][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.03-08.11.08:908][238]PIE: New page: PIE session: BossTestMap (2024. 1. 4. 오전 2:11:08)
+[2024.01.03-08.11.08:908][238]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.11.08:909][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001543s)
+[2024.01.03-08.11.08:909][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/BossTestMap.BossTestMap to /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap (0.001570s)
+[2024.01.03-08.11.08:923][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.01.03-08.11.08:929][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-08.11.08:929][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-08.11.08:929][238]LogAIModule: Creating AISystem for world BossTestMap
+[2024.01.03-08.11.08:930][238]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2024.01.03-08.11.08:930][238]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.01.03-08.11.08:930][238]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.03-08.11.08:930][238]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.03-08.11.08:930][238]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.03-08.11.08:930][238]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.03-08.11.08:930][238]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.03-08.11.08:930][238]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.03-08.11.08:930][238]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.03-08.11.08:930][238]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.03-08.11.08:930][238]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.03-08.11.08:930][238]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.03-08.11.08:930][238]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.03-08.11.08:932][238]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.03-08.11.08:944][238]LogAudioMixer: Display: Using Audio Hardware Device LG FHD(NVIDIA High Definition Audio)
+[2024.01.03-08.11.08:945][238]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.03-08.11.08:945][238]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.03-08.11.08:945][238]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.03-08.11.08:945][238]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.01.03-08.11.08:945][238]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2024.01.03-08.11.08:947][238]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.01.03-08.11.08:947][238]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.01.03-08.11.08:947][238]LogInit: FAudioDevice initialized with ID 16.
+[2024.01.03-08.11.08:947][238]LogAudio: Display: Audio Device (ID: 16) registered with world 'BossTestMap'.
+[2024.01.03-08.11.08:947][238]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.01.03-08.11.08:950][238]LogLoad: Game class is 'GameModeBase'
+[2024.01.03-08.11.08:950][238]LogWorld: Bringing World /Game/Maps/UEDPIE_0_BossTestMap.BossTestMap up for play (max tick rate 60) at 2024.01.03-17.11.08
+[2024.01.03-08.11.08:951][238]LogWorld: Bringing up level for play took: 0.000761
+[2024.01.03-08.11.08:953][238]LogOnline: OSS: Created online subsystem instance for: :Context_95
+[2024.01.03-08.11.08:954][238]PIE: Server logged in
+[2024.01.03-08.11.08:955][238]PIE: Play in editor total start time 0.048 seconds.
+[2024.01.03-08.11.10:251][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.11.10:251][310]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_BossTestMap
+[2024.01.03-08.11.10:251][310]LogWorld: UWorld::CleanupWorld for BossTestMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-08.11.10:251][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.11.10:253][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.03-08.11.10:257][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-08.11.10:269][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-08.11.10:269][310]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.01.03-08.11.10:269][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.01.03-08.11.10:271][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.01.03-08.11.10:276][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.03-08.11.10:332][312]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2024.01.03-08.11.11:140][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-08.11.11:165][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/BossTestMap" FILE="D:/Github/Lostark_Jagan/Jagan/Content/Maps/BossTestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.03-08.11.11:203][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.03-08.11.11:210][360]LogSavePackage: Moving output files for package: /Game/Maps/BossTestMap
+[2024.01.03-08.11.11:210][360]LogSavePackage: Moving 'D:/Github/Lostark_Jagan/Jagan/Saved/BossTestMapF83685E84CF905DAD0C33EBDE1F61CF5.tmp' to 'D:/Github/Lostark_Jagan/Jagan/Content/Maps/BossTestMap.umap'
+[2024.01.03-08.11.11:221][360]LogFileHelpers: Saving map 'BossTestMap' took 0.056
+[2024.01.03-08.11.11:226][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.88 sec)
+[2024.01.03-08.11.11:227][360]AssetCheck: New page: Asset Save: BossTestMap
+[2024.01.03-08.11.11:227][360]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/BossTestMap.BossTestMap
