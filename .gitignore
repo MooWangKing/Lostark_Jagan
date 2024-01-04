@@ -92,3 +92,8 @@ Build/Android/res/*/*
 # Ignore plugins binaries on deep subfolders
 Plugins/**/Binaries/*
 Plugins/**/Intermediate/*
+
+## My Ignore
+Jagan/Binaries/*
+Jagan/Intermediate/*
+Jagan/Saved/*
